@@ -1,0 +1,19 @@
+.banner img {
+  height: 3rem;
+  border-radius: 10px;
+  margin-right: 1rem;
+}
+
+.nav_item {
+  margin: 1rem;
+}
+
+.banner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.banner-size {
+  font-size: 24px;
+}
